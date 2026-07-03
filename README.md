@@ -10,11 +10,10 @@
 ---
 
 ## 🚀 About Me
-
-- 🌱 Currently learning Python, Data Science, and Machine Learning
-- 📊 Passionate about Data Analysis and AI
-- 💡 Building Machine Learning projects
-- 🎯 Goal: Become a Machine Learning Engineer through campus placement
+- 🌱 Currently learning Python, Data Analysis, and Machine Learning
+- 📊 Interested in Exploratory Data Analysis, Machine Learning, and solving real-world problems with data
+- 🛠️ Building beginner-to-intermediate ML and data analysis projects
+- 🎯 Goal: Become a Machine Learning Engineer through strong projects, problem solving, and campus placement preparation
 
 ---
 
