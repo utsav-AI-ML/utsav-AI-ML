@@ -1,8 +1,11 @@
-# Hi 👋 I'm Utsav Dasgupta
-
-🎓 First-Year B.Tech CSE (AI & ML) Student at Sikkim Manipal Institute of Technology (SMIT)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=utsav-AI-ML&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
+<h1 align="center">Hi 👋 I'm Utsav Dasgupta</h1>
 
 💻 Aspiring Machine Learning Engineer
+
+🎓 First-Year B.Tech CSE (AI & ML) Student at Sikkim Manipal Institute of Technology (SMIT)
 
 ---
 
