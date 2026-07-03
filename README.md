@@ -42,6 +42,11 @@
 
 Exploratory Data Analysis of the Video Game Sales dataset using Python.
 
+ What I did*
+- Cleaned and explored the dataset using Pandas
+- Visualized sales trends by genre, platform, and region
+- Identified top-selling games and key market patterns
+
 🔗 Repository:
 https://github.com/utsav-AI-ML/video-game-sales-prediction
 
