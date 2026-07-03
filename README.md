@@ -50,10 +50,7 @@ https://github.com/utsav-AI-ML/video-game-sales-prediction
 https://github.com/utsav-AI-ML
 
 ---
-## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utsav-AI-ML&show_icons=true&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utsav-ai-ml&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utsav-ai-ml&layout=compact&theme=tokyonight)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utsav-AI-ML&layout=compact&theme=tokyonight)
 ⭐ I believe in learning by building real-world projects.
