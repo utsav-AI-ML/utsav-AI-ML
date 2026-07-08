@@ -61,8 +61,6 @@ https://github.com/utsav-AI-ML/video-game-sales-prediction
 🐙 GitHub:
 https://github.com/utsav-AI-ML
 
----
-## 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=utsav-AI-ML&theme=tokyonight" />
+
 ⭐ I believe in learning by building real-world projects.
